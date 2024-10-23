@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Promoções ES/Serra</title>
+    <style>
+        /* Estilo geral */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        h1 {
+            text-align: center;
+            background-color: #007bff;
+            color: #fff;
+            padding: 20px 0;
+            margin: 0;
+            font-size: 2.5em;
+            letter-spacing: 1px;
+        }
+
+        #promocoes-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            padding: 40px 20px;
+        }
+
+        /* Estilo das promoções */
+        .promocao {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin: 10px;
+            width: 240px;
+            text-align: center;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        /* Animação ao passar o mouse */
+        .promocao:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+        .promocao img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-bottom: 15px;
+        }
+
+        .promocao h3 {
+            font-size: 1.5em;
+            margin: 10px 0;
+            color: #007bff;
+        }
+
+        .promocao p {
+            font-size: 1.2em;
+            color: #555;
+        }
+
+        /* Estilo responsivo */
+        @media (max-width: 768px) {
+            .promocao {
+                width: 100%;
+            }
+        }
+        .final
+        {
+            display: center;
+            padding-left: 40px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Promoções ES/Serra</h1>
+    <div id="promocoes-container"></div>
+
+    <script>
+        function carregarPromocoes() {
+            fetch('promocoes.json')
+                .then(response => response.json())
+                .then(data => {
+                    const container = document.getElementById('promocoes-container');
+                    container.innerHTML = ''; // Limpa o container antes de adicionar novas promoções
+
+                    data.forEach(promocao => {
+                        const div = document.createElement('div');
+                        div.classList.add('promocao');
+
+                        div.innerHTML = `
+                            <h3>${promocao.nome}</h3>
+                            <p>Preço: ${promocao.preco}</p>
+                            <img src="${promocao.imagem}" alt="${promocao.nome}">
+                        `;
+
+                        container.appendChild(div);
+                    });
+                })
+                .catch(error => console.error('Erro ao carregar as promoções:', error));
+        }
+
+        window.onload = carregarPromocoes;
+
+        
+    </script>
+    <footer>
+     <div class='final'><STR>Agradecido pelo Projeto</STR></div>   
+    </footer>
+</body>
+</html>
