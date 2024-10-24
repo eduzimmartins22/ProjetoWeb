@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 from datetime import datetime
-from comparar_promocoes import comparar_promocoes
+from comparar_promocoes import comparar_promocoes, encontrar_arquivo_mais_recente
 import os
 
 response = requests.get("https://www.guiaserra.com.br/promocoes")
@@ -64,13 +64,17 @@ if not os.path.exists(caminho_pasta_relatorios):
 
 caminho_arquivo_json = os.path.join(caminho_pasta_relatorios, nome_arquivo_json)
 
+caminho_arquivo_mais_recente = encontrar_arquivo_mais_recente(caminho_pasta_relatorios)
+print(caminho_arquivo_mais_recente)
 
-try:
-    with open(caminho_arquivo_json, 'r', encoding='utf-8') as f:
-        promocoes_antigas = json.load(f).get('promocoes', [])
-except FileNotFoundError:
+if caminho_arquivo_mais_recente:
+    try:
+        with open(caminho_arquivo_mais_recente, 'r', encoding='utf-8') as f:
+            promocoes_antigas = json.load(f).get('promocoes', [])
+    except FileNotFoundError:
+        promocoes_antigas = []
+else:
     promocoes_antigas = []
-
 
 relatorio = comparar_promocoes(promocoes_antigas, promocoes_novas)
 
