@@ -1,0 +1,466 @@
+{
+    "relatorio": {
+        "data_consulta": "26/10/2024 15:49:56",
+        "numero_promocoes_obtidas": 91,
+        "novas_promocoes": 0,
+        "promocoes_removidas": 0,
+        "erros": []
+    },
+    "promocoes": [
+        {
+            "nome": "Promoção CNH B",
+            "preco": "R$1.400,00",
+            "imagem": "https://www.portalbarcelona.com.br/files/guia/82/promocao-cnh-b803.webp"
+        },
+        {
+            "nome": "Maquiagem + penteado",
+            "preco": "R$280,00",
+            "imagem": "https://www.guialaranjeiras.com.br/files/guia/76/maquiagem-penteado15.webp"
+        },
+        {
+            "nome": "Promoção Manutenção em Jardim",
+            "preco": "R$450,00",
+            "imagem": "https://www.guiaserra.com.br/files/guia/32/promocao-manutencao-em-jardim769.webp"
+        },
+        {
+            "nome": "Compre um Óculos Solar e Ganhe 50% de Desconto no Segundo Par",
+            "preco": "R$169,00",
+            "imagem": "https://www.guiajardimlimoeiro.com.br/files/guia/69/compre-um-oculos-solar-e-ganhe-50-de-desconto-no-segundo-par417.webp"
+        },
+        {
+            "nome": "Pneu Dunlop 195 - 65 R15",
+            "preco": "R$520,00",
+            "imagem": "https://www.guiaserrasede.com.br/files/guia/63/pneu-dunlop-195-65-r1551.webp"
+        },
+        {
+            "nome": "Pneu Dunlop 175 - 70 R13",
+            "preco": "R$350,00",
+            "imagem": "https://www.guiaserrasede.com.br/files/guia/63/pneu-dunlop-175-70-r1321.webp"
+        },
+        {
+            "nome": "Aluguel Vestido de Noiva",
+            "preco": "R$1.900,00",
+            "imagem": "https://www.guiajardimlimoeiro.com.br/files/guia/24/aluguel-vestido-de-noiva976.webp"
+        },
+        {
+            "nome": "Promoção em forros PVC",
+            "preco": "R$47,00",
+            "imagem": "https://www.guiaportocanoa.com.br/files/guia/168/promocao-em-forros-pvc826.webp"
+        },
+        {
+            "nome": "Pneu Dunlop 175 - 65 R15",
+            "preco": "R$450,00",
+            "imagem": "https://www.guiaserrasede.com.br/files/guia/63/pneu-dunlop-175-65-r15770.webp"
+        },
+        {
+            "nome": "Motor Residencial Dz Agl Trino 300",
+            "preco": "R$989,00",
+            "imagem": "https://www.guiacarapina.com.br/files/guia/36/motor-residencial-dz-agl-trino-300862.webp"
+        },
+        {
+            "nome": "Apartamento no Condomínio Viver Serra",
+            "preco": "R$190.000,00",
+            "imagem": "https://www.guialaranjeiras.com.br/files/guia/106/apartamento-no-condominio-viver-serra382.webp"
+        },
+        {
+            "nome": "Apartamento em Valparaíso com móveis planejados",
+            "preco": "R$280.000,00",
+            "imagem": "https://www.guialaranjeiras.com.br/files/guia/106/apartamento-em-valparaiso-com-moveis-planejados626.webp"
+        },
+        {
+            "nome": "Adesão de Software para Comércio",
+            "preco": "R$300,00",
+            "imagem": "https://www.guialaranjeiras.com.br/files/guia/109/adesao-de-software-para-comercio360.webp"
+        },
+        {
+            "nome": "Mesa de Jantar Laqueada com 4 Cadeiras",
+            "preco": "R$1.799,00",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/289/mesa-de-jantar-laqueada-com-4-cadeiras172.webp"
+        },
+        {
+            "nome": "Lentes Transitions",
+            "preco": "R$599,00",
+            "imagem": "https://www.guiajardimlimoeiro.com.br/files/guia/69/lentes-transitions4.webp"
+        },
+        {
+            "nome": "Automatizador de Portão",
+            "preco": "R$1.119,00",
+            "imagem": "https://www.guiacarapina.com.br/files/guia/36/automatizador-de-portao985.webp"
+        },
+        {
+            "nome": "Pneu Dunlop 185 - 65 R14",
+            "preco": "R$420,00",
+            "imagem": "https://www.guiaserrasede.com.br/files/guia/63/pneu-dunlop-185-65-r14308.webp"
+        },
+        {
+            "nome": "Apartamento Condomínio Viver Serra 3 quartos",
+            "preco": "R$300.000,00",
+            "imagem": "https://www.guialaranjeiras.com.br/files/guia/106/apartamento-condominio-viver-serra-3-quartos269.webp"
+        },
+        {
+            "nome": "Kit Armário Duda 90",
+            "preco": "R$549,00",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/289/kit-armario-duda-90767.webp"
+        },
+        {
+            "nome": "Promoção Pegue e Monte",
+            "preco": "R$170,00",
+            "imagem": "https://www.guiaportocanoa.com.br/files/guia/150/promocao-pegue-e-monte600.webp"
+        },
+        {
+            "nome": "Armação Óculos de Grau",
+            "preco": "R$149,00",
+            "imagem": "https://www.guiajardimlimoeiro.com.br/files/guia/69/armacao-oculos-de-grau8.webp"
+        },
+        {
+            "nome": "Aluguel Vestido de Dama",
+            "preco": "R$480,00",
+            "imagem": "https://www.guiajardimlimoeiro.com.br/files/guia/24/aluguel-vestido-de-dama62.webp"
+        },
+        {
+            "nome": "CAMARÃO A MODA ITALIA",
+            "preco": "R$35,99",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/363/camarao-a-moda-italia670.webp"
+        },
+        {
+            "nome": "Terno Slim - Locação de Ternos",
+            "preco": "R$480,00",
+            "imagem": "https://www.guiajardimlimoeiro.com.br/files/guia/24/terno-slim-locacao-de-ternos423.webp"
+        },
+        {
+            "nome": "Promoção Limpeza de Estacionamento",
+            "preco": "R$450,00",
+            "imagem": "https://www.guiaserra.com.br/files/guia/32/promocao-limpeza-de-estacionamento820.webp"
+        },
+        {
+            "nome": "Limpeza e Higienização de Sofá",
+            "preco": "R$140,00",
+            "imagem": "https://www.guiajosedeanchieta.com.br/files/guia/10/limpeza-e-higienizacao-de-sofa58.webp"
+        },
+        {
+            "nome": "MACARRÃO COM CAMARÃO",
+            "preco": "R$35,00",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/363/macarrao-com-camarao78.webp"
+        },
+        {
+            "nome": "Espaço de Festas - Locação",
+            "preco": "R$690,00",
+            "imagem": "https://www.guiajacaraipe.com.br/files/guia/45/espaco-de-festas-locacao343.webp"
+        },
+        {
+            "nome": "Bordado de Brasão da sua Faculdade e seu Curso",
+            "preco": "R$34,90",
+            "imagem": "https://www.guialaranjeiras.com.br/files/guia/75/bordado-de-brasao-da-sua-faculdade-e-seu-curso199.webp"
+        },
+        {
+            "nome": "Higienização e hidratação de bancos de couro",
+            "preco": "R$220,00",
+            "imagem": "https://www.guiaserrasede.com.br/files/guia/128/higienizacao-e-hidratacao-de-bancos-de-couro595.webp"
+        },
+        {
+            "nome": "Cortina Belini 420 x 280 Blackout em Tecido",
+            "preco": "R$379,99",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/250/cortina-belini-420-x-280-blackout-em-tecido953.webp"
+        },
+        {
+            "nome": "3 CALDOS 350ML + 500G ARROZ BRANCO + TORRADAS",
+            "preco": "R$80,00",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/363/3-caldos-350ml-500g-arroz-branco-torradas589.webp"
+        },
+        {
+            "nome": "São Bernardo Planos de Saúde (27) 99505-6839",
+            "preco": "R$17.800,00",
+            "imagem": "https://www.guiaserrasede.com.br/files/guia/117/sao-bernardo-planos-de-saude-27-99505-6839.webp"
+        },
+        {
+            "nome": "Janela de Alumínio 2 Folhas 1,00 x1,20",
+            "preco": "R$233,23",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/173/janela-de-aluminio-2-folhas-1x1-m-branca.webp"
+        },
+        {
+            "nome": "Spa dos pés",
+            "preco": "R$100,00",
+            "imagem": "https://www.portalbarcelona.com.br/files/guia/136/spa-dos-pes868.webp"
+        },
+        {
+            "nome": "CAIXA DESCARGA ASTRA 9L BRANCA",
+            "preco": "R$49,90",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/173/caixa-descarga-astra-9l-branca.webp"
+        },
+        {
+            "nome": "Gás em Vila Nova de Colares",
+            "preco": "R$120,00",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/321/gas-em-vila-nova-de-colares1.webp"
+        },
+        {
+            "nome": "Tanque de Lavar Roupa Sintético 1,00 m Duralevi",
+            "preco": "R$159,90",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/173/tanque-de-lavar-roupa.webp"
+        },
+        {
+            "nome": "Marmitex Ex Grande Segunda a Sexta",
+            "preco": "R$25,00",
+            "imagem": "https://www.guiaportocanoa.com.br/files/guia/194/marmitex-ex-grande-sabado-e-domingo925.webp"
+        },
+        {
+            "nome": "Alugue de Tobogã e Castelinho Inflável",
+            "preco": "R$950,00",
+            "imagem": "https://www.guiacarapina.com.br/files/guia/39/alugue-de-toboga-e-castelinho-inflavel870.webp"
+        },
+        {
+            "nome": "CHUVEIRO LOREN SHOWER ELETRÔNICO 127V",
+            "preco": "R$128,78",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/173/chuveiro-loren-shower-eletronico-127v954.webp"
+        },
+        {
+            "nome": "Marmitex Média Segunda a Sexta",
+            "preco": "R$20,00",
+            "imagem": "https://www.guiaportocanoa.com.br/files/guia/194/marmitex-media-segunda-a-sexta196.webp"
+        },
+        {
+            "nome": "Colchão de Solteiro",
+            "preco": "R$130,00",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/367/colchao-de-solteiro656.webp"
+        },
+        {
+            "nome": "Micropigmentação de Sobrancelha",
+            "preco": "R$200,00",
+            "imagem": "https://www.guiaserrasede.com.br/files/guia/199/micropigmentacao-de-sobrancelha338.webp"
+        },
+        {
+            "nome": "Cor, corte e tratamento de cabelos ondulados, cacheados e crespos",
+            "preco": "R$199,00",
+            "imagem": "https://www.guianovohorizonte.com.br/files/guia/100/cor-corte-e-tratamento-de-cabelos-ondulados-cacheados-e-crespos384.webp"
+        },
+        {
+            "nome": "CHUVEIRO MAX BANHO C -  CANO",
+            "preco": "R$79,99",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/173/chuveiro-max-banho-c-cano105.webp"
+        },
+        {
+            "nome": "Assento Sanitario Plastico Oval Premier Cor Branco Krona",
+            "preco": "R$46,06",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/173/assento-sanitario-plastico-oval-premier-cor-branco-krona.webp"
+        },
+        {
+            "nome": "Hidratação de Couro Automotivo",
+            "preco": "R$220,00",
+            "imagem": "Imagem inválida ou indisponível"
+        },
+        {
+            "nome": "Coroa de Flor Natural",
+            "preco": "R$450,00",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/362/coroa-de-flor-natural440.webp"
+        },
+        {
+            "nome": "Escada de Alumínio 5 Degraus Alumasa",
+            "preco": "R$244,00",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/173/escada-de-aluminio.webp"
+        },
+        {
+            "nome": "ARGAMASSA ACIII - PENEDO - PEGAFIX 20KG",
+            "preco": "R$33,00",
+            "imagem": "https://www.guiajacaraipe.com.br/files/guia/49/argamassa-aciii-penedo-pegafix-20kg597.webp"
+        },
+        {
+            "nome": "Marmitex Média Segunda a Sexta",
+            "preco": "R$20,00",
+            "imagem": "https://www.guiaserradourada.com.br/files/guia/20/marmitex-media-segunda-a-sexta108.webp"
+        },
+        {
+            "nome": "Jogo 4 ou 6 Cadeiras",
+            "preco": "R$160,00",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/367/jogo-4-ou-6-cadeiras297.webp"
+        },
+        {
+            "nome": "Serviços Contabeis para MEI para manter sua contabilidade Mensal",
+            "preco": "R$150,00",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/291/servicos-contabeis-para-mei-para-manter-sua-contabilidade-mensal655.webp"
+        },
+        {
+            "nome": "Limpeza de Ar Condicionado 9-12 btus",
+            "preco": "R$280,00",
+            "imagem": "https://www.guialaranjeiras.com.br/files/guia/12/limpeza-de-ar-condicionado867.webp"
+        },
+        {
+            "nome": "Marmitex Pequena Segunda a Sexta",
+            "preco": "R$18,00",
+            "imagem": "https://www.guiaserradourada.com.br/files/guia/20/marmitex-pequena-segunda-a-sexta220.webp"
+        },
+        {
+            "nome": "Design de sobrancelhas",
+            "preco": "R$35,00",
+            "imagem": "https://www.portalbarcelona.com.br/files/guia/136/design-de-sobrancelhas194.webp"
+        },
+        {
+            "nome": "Impermeabilizante Veda Laje Preto 18 L",
+            "preco": "R$324,84",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/173/impermeabilizante-veda-laje-preto-18-l.webp"
+        },
+        {
+            "nome": "Plano Life Mais Total",
+            "preco": "R$49,90",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/362/plano-life-mais-total59.webp"
+        },
+        {
+            "nome": "Cálculo de rescisão",
+            "preco": "R$60,00",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/291/calculo-de-rescisao319.webp"
+        },
+        {
+            "nome": "Selagem",
+            "preco": "R$120,00",
+            "imagem": "https://www.guiaserrasede.com.br/files/guia/199/selagem712.webp"
+        },
+        {
+            "nome": "ARGAMASSA AC I",
+            "preco": "R$12,50",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/173/argamassa-ac-i972.webp"
+        },
+        {
+            "nome": "Serviço Funerário",
+            "preco": "R$1.600,00",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/362/servico-funerario987.webp"
+        },
+        {
+            "nome": "Caixa de de agua 1000 Litros",
+            "preco": "R$433,26",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/173/caixa-dagua-500-litros.webp"
+        },
+        {
+            "nome": "Condomínio Viver Serra",
+            "preco": "R$300.000,00",
+            "imagem": "https://www.guialaranjeiras.com.br/files/guia/106/condominio-viver-serra460.webp"
+        },
+        {
+            "nome": "vidraçaria local porta articulada abre o vão todo",
+            "preco": "R$550,00",
+            "imagem": "https://www.guiaportocanoa.com.br/files/guia/155/vidracaria-local-porta-articulada-abre-o-vao-todo678.webp"
+        },
+        {
+            "nome": "Micropigmentação de Sobrancelha",
+            "preco": "R$200,00",
+            "imagem": "https://www.guiaplanaltoserrano.com.br/files/guia/23/micropigmentacao-de-sobrancelha338.webp"
+        },
+        {
+            "nome": "Curso de Tanatopraxia  -  Agente Funerário",
+            "preco": "R$2.500,00",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/362/curso-de-tanatopraxia--agente-funerario760.webp"
+        },
+        {
+            "nome": "TUBO ESGOTO 100MM",
+            "preco": "R$110,50",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/173/tubo-esgoto-100mm.webp"
+        },
+        {
+            "nome": "Promoção de final do Ano",
+            "preco": "R$1.499,99",
+            "imagem": "https://www.guiaportocanoa.com.br/files/guia/140/promocao-de-final-do-ano898.webp"
+        },
+        {
+            "nome": "VENTILADOR WIND INVERTER",
+            "preco": "R$336,63",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/173/ventilador-wind-inverter636.webp"
+        },
+        {
+            "nome": "Promoção Limitada",
+            "preco": "R$200,00",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/367/promocao-limitada438.webp"
+        },
+        {
+            "nome": "Conjunto Queen",
+            "preco": "R$3.199,99",
+            "imagem": "https://www.guiaserradourada.com.br/files/guia/7/conjunto-queen235.webp"
+        },
+        {
+            "nome": "Marmitex Ex Grande Segunda a Sexta",
+            "preco": "R$25,00",
+            "imagem": "https://www.guiaserradourada.com.br/files/guia/20/marmitex-ex-grande-segunda-a-sexta389.webp"
+        },
+        {
+            "nome": "TELHA CASALIT   2,44 X 1,10 X 5 MM",
+            "preco": "R$72,73",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/173/telha-eternit-244-x-110-x-5-mm525.webp"
+        },
+        {
+            "nome": "Selagem",
+            "preco": "R$120,00",
+            "imagem": "https://www.guiaplanaltoserrano.com.br/files/guia/23/selagem712.webp"
+        },
+        {
+            "nome": "Plano Gold",
+            "preco": "R$79,90",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/362/plano-gold569.webp"
+        },
+        {
+            "nome": "Colchão de Casal",
+            "preco": "R$149,90",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/367/colchao-de-casal340.webp"
+        },
+        {
+            "nome": "PIA DE GRANITO INDEPENDENCE 1,20 X 0,56CM",
+            "preco": "R$322,12",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/173/pia-de-granito-idependence-120-x-056cm286.webp"
+        },
+        {
+            "nome": "Limpeza + Higienização",
+            "preco": "R$179,90",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/367/limpeza-higienizacao50.webp"
+        },
+        {
+            "nome": "Marmitex Grande Segunda a Sexta",
+            "preco": "R$23,00",
+            "imagem": "https://www.guiaportocanoa.com.br/files/guia/194/marmitex-grande-sabado-e-domingo254.webp"
+        },
+        {
+            "nome": "cadastro para ser MEI",
+            "preco": "R$60,00",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/291/cadastro-para-ser-mei102.webp"
+        },
+        {
+            "nome": "Gás em Feu Rosa",
+            "preco": "R$120,00",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/321/gas-em-feu-rosa511.webp"
+        },
+        {
+            "nome": "Promoção Ducha",
+            "preco": "R$20,00",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/357/promocao-ducha931.webp"
+        },
+        {
+            "nome": "Forro PVC",
+            "preco": "R$45,00",
+            "imagem": "https://www.guiaportocanoa.com.br/files/guia/125/forro-pvc-em-serra785.webp"
+        },
+        {
+            "nome": "Serviço Lavagem Executiva",
+            "preco": "R$40,00",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/357/servico-lavagem-executiva56.webp"
+        },
+        {
+            "nome": "Marmitex Pequena Segunda a Sexta",
+            "preco": "R$18,00",
+            "imagem": "https://www.guiaportocanoa.com.br/files/guia/194/marmitex-pequena984.webp"
+        },
+        {
+            "nome": "Adição de moto. Cat (A)",
+            "preco": "R$1.090,00",
+            "imagem": "https://www.guiaportocanoa.com.br/files/guia/140/adicao-de-moto-cat-a686.webp"
+        },
+        {
+            "nome": "Hidroprimer 3,6L Ciplak",
+            "preco": "R$59,90",
+            "imagem": "https://www.guiafeurosa.com.br/files/guia/173/hidroprimer-36l-ciplak.webp"
+        },
+        {
+            "nome": "Marmitex Grande Segunda a Sexta",
+            "preco": "R$23,00",
+            "imagem": "https://www.guiaserradourada.com.br/files/guia/20/marmitex-grande-segunda-a-sexta977.webp"
+        },
+        {
+            "nome": "Manutenção e Higienização de Ar Condicionado",
+            "preco": "R$420,00",
+            "imagem": "https://www.guialaranjeiras.com.br/files/guia/12/manutencao-e-higienizacao-de-ar-condicionado961.webp"
+        }
+    ]
+}
