@@ -16,3 +16,32 @@ Este projeto tem como objetivo realizar a consulta automatizada das promoções 
 - **Bibliotecas**:
     - [`beautifulsoup4`](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): para análise e extração de dados HTML.
     - [`requests`](https://docs.python-requests.org/en/master/): para realizar requisições HTTP e acessar o site.
+
+## Instalação:
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/eduzimmartins22/ProjetoWeb.git
+   cd webCrawler
+   ```
+   
+2. Instale as dependências:
+
+	```bash
+	pip install -r requirements.txt
+	```
+
+## Execução:
+1. Abra um terminal ou prompt de comando.
+
+2. Navegue até o diretório do projeto:
+
+	```bash
+	cd src
+	```
+
+3. Execute o script Python:
+
+	```bash
+	python app.py
+	```
