@@ -1,0 +1,19 @@
+# coisas relacionadas ao Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+
+# venv
+venv/
+env/
+*.env
+
+# pasta de buscas
+Buscas/

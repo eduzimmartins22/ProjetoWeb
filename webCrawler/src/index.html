@@ -88,13 +88,13 @@
 
     <script>
         function carregarPromocoes() {
-            fetch('promocoes.json')
+            fetch('Buscas/promocoes-23-10-2024.json')
                 .then(response => response.json())
                 .then(data => {
                     const container = document.getElementById('promocoes-container');
                     container.innerHTML = ''; // Limpa o container antes de adicionar novas promoções
 
-                    data.forEach(promocao => {
+                    data.promocoes.forEach(promocao => {
                         const div = document.createElement('div');
                         div.classList.add('promocao');
 
